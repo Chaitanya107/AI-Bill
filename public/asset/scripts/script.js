@@ -50,7 +50,7 @@ const loadProducts = async() => {
                     <div class="card__product">
                         <span>${product.name}</span>
                     </div>
-                    <div class="span2">Price Per Unit</div>
+                    <div class="span2">Price</div>
                     <div class="card__price">
                         <span>${product.price} </span>
                     </div>
